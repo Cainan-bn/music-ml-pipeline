@@ -1,4 +1,4 @@
-# Playcatch — Sistema de Recomendação Musical por Sentimento
+# Sistema de Recomendação Musical por Sentimento
 
 Pipeline de Machine Learning que analisa o sentimento de letras de música e
 recomenda faixas com base no humor do usuário, integrado a um chatbot
